@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class=\"inventory_item\"][1]//*[contains(@data-test, \"add-to-cart\")]\"}\n  (Session info: headless chrome=114.0.5735.133)",
+  "stacktrace": "#0 0x55bc3e0d44e3 <unknown>\n#1 0x55bc3de03c76 <unknown>\n#2 0x55bc3de3fc96 <unknown>\n#3 0x55bc3de3fdc1 <unknown>\n#4 0x55bc3de797f4 <unknown>\n#5 0x55bc3de5f03d <unknown>\n#6 0x55bc3de7730e <unknown>\n#7 0x55bc3de5ede3 <unknown>\n#8 0x55bc3de342dd <unknown>\n#9 0x55bc3de3534e <unknown>\n#10 0x55bc3e0943e4 <unknown>\n#11 0x55bc3e0983d7 <unknown>\n#12 0x55bc3e0a2b20 <unknown>\n#13 0x55bc3e099023 <unknown>\n#14 0x55bc3e0671aa <unknown>\n#15 0x55bc3e0bd6b8 <unknown>\n#16 0x55bc3e0bd847 <unknown>\n#17 0x55bc3e0cd243 <unknown>\n#18 0x7f4d35b81609 start_thread\n"
+}

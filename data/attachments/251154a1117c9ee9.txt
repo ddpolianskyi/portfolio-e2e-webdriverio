@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class=\"cart_item\"][1]//*[@class=\"inventory_item_name\"]"
+}

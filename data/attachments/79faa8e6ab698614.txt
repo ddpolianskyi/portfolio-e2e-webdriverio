@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "Unable to locate element: //*[@class=\"inventory_item\"][1]//*[contains(@data-test, \"add-to-cart\")]",
+  "stacktrace": "RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:183:5\nNoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:395:5\nelement.find/</<@chrome://remote/content/marionette/element.sys.mjs:134:16\n"
+}

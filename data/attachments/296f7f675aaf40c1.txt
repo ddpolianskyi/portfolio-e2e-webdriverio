@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class=\"inventory_item\"][1]//*[contains(@data-test, \"add-to-cart\")]"
+}
